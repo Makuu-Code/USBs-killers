@@ -1,5 +1,5 @@
 # USB-Killer-windows
-*USB Killer para windows (beta de USBs killers)*
+*USB Killer para windows (USB Completo)*
 
 1. Descargar zip
 2. Extraer
